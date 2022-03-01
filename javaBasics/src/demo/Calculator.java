@@ -7,7 +7,7 @@ public class Calculator {
 		basicCal.subtractNumbers(125, 68);
 		basicCal.divideNumbers(100, 3);
 	}
-	
+	//test
 public void addNumbers(int num1,int num2) {
 	int sum =num1+num2;
 	System.out.println(sum);
